@@ -20,3 +20,9 @@
 .jumbotron{
     padding-top: 100px;
 }
+
+.myPic{
+    object-fit: cover;
+    border: 4px black solid;
+    border-radius: 10px;
+}

@@ -1,3 +1,9 @@
+body{
+    background-color: #e9ecef;
+}
+
+
+
 .customNav{
    position: fixed;
    width: 100%;
@@ -16,13 +22,35 @@
     font-size: 30px;
 
 }
-
+.myNameJumbo{
+    border: 3px;
+    border-style: none none solid none;
+    padding-bottom: 15px;
+    border-radius: 5px;
+}
 .jumbotron{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     padding-top: 100px;
+    border: 2px;
+    border-style: none none solid none;
 }
 
 .myPic{
     object-fit: cover;
     border: 4px black solid;
     border-radius: 10px;
+}
+
+.workGrid{
+    padding-top: 20px;
+}
+#myProjects{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+   border: 3px;
+   border-style: none none solid none;
+   border-radius: 5px;
+   padding-bottom: 10px;
 }

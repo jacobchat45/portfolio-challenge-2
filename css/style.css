@@ -91,6 +91,9 @@ body{
     text-decoration: none;
     color: grey;
 }
+#skills{
+    padding-top: 15px;
+}
 
 #SFL{
     
@@ -105,4 +108,14 @@ body{
    border-radius: 5px;
    padding-bottom: 10px;
    padding-top: 15px;
+}
+
+
+#aboutPara{
+    padding-top: 30px;
+}
+
+.footer{
+    background-color: grey;
+    height: 100px;
 }

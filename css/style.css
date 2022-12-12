@@ -67,7 +67,7 @@ body{
 }
 
 
-#contact{
+#skillsAbout{
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
    border: 3px;
@@ -80,4 +80,29 @@ body{
 #gitLink{
     text-decoration: none;
     color: black;
+}
+
+#intro{
+    padding-top: 15px;
+    text-align: center;
+}
+
+#codecademyLink{
+    text-decoration: none;
+    color: grey;
+}
+
+#SFL{
+    
+    font-weight:1000;
+} 
+
+#about{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+   border: 3px;
+   border-style: none none solid none;
+   border-radius: 5px;
+   padding-bottom: 10px;
+   padding-top: 15px;
 }

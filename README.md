@@ -13,16 +13,16 @@ Here is my portfolio webpage, describing myself and my work as well as a couple 
 
 ## Installation
 
-Just open up the webpage. You can see it deployed at 
+Just open up the webpage. You can see it deployed at https://jacobchat45.github.io/portfolio-challenge-2/
 
 
 ## Usage
 
 
 
-![screenshot of the webpage]()
-![screenshot of the webpage]()
-![screenshot of the webpage]()
+![screenshot of the webpage](images/ss1.png)
+![screenshot of the webpage](images/ss2.png)
+![screenshot of the webpage](images/ss3.png)
 
 
 

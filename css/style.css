@@ -5,7 +5,7 @@ body{
 
 
 .customNav{
-   position: fixed;
+   position: static;
    width: 100%;
    z-index: 10;
 }
@@ -113,9 +113,41 @@ body{
 
 #aboutPara{
     padding-top: 30px;
+    padding-bottom: 30px;
 }
 
-.footer{
-    background-color: grey;
-    height: 100px;
+#lastPara{
+    padding-bottom: 30px;
 }
+
+
+.foot{
+    border: 3px;
+    border-style: solid none solid none;
+    background-image: linear-gradient(white, #d9d9d9);
+    width: 100%;
+    text-align: center;
+    }
+
+
+    #contactMe{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        padding-top: 5px;
+        text-decoration: underline;
+    }
+
+    #emailMe{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        padding-top: 5px;
+    }
+    #gitLink{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        padding: 5px;
+        text-decoration: none;
+        
+        font-weight: 1000;
+    }
+
+    #git{
+        color: black;
+    }
